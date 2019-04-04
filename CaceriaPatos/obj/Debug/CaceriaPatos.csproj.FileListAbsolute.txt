@@ -1,0 +1,10 @@
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.csprojResolveAssemblyReference.cache
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.Form1.resources
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.Properties.Resources.resources
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.csproj.GenerateResource.Cache
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.csproj.CoreCompileInputs.cache
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\bin\Debug\CaceriaPatos.exe.config
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\bin\Debug\CaceriaPatos.exe
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\bin\Debug\CaceriaPatos.pdb
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.exe
+E:\Codes\VisualStudio2017\Projects\CaceriaPatos\CaceriaPatos\obj\Debug\CaceriaPatos.pdb
